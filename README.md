@@ -280,3 +280,5 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 > If the string was not long enough, it would have been rejected when moving the pointer back (left).
 
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg)
+
+** Congrates on finishing the sample exam! **
