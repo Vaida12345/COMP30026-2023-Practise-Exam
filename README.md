@@ -84,3 +84,42 @@ Hence, $F\lor Q$ is not valid.
 [![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1687211)
 
 $H$ is valid, hence $G \models H$.
+
+
+# Question 3
+
+## Part A
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+
+$\forall x D(x)\land (\exists y P(y)\land E(x, y)) \to (\lnot \exists z C(z) \land F(x, z))$
+
+## Part B
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
+
+> $\forall x \forall y \lnot (M(x)\land \forall z(\lnot D(z)\lor L(x, z)))\lor (\lnot M(y)\lor\lnot L(y, x))$
+>
+> I don't want to type anymore, I will list the outline, you can check Jordi Van Der Meer's step-by-step solution [here](https://edstem.org/au/courses/12631/discussion/1682125).
+>
+> Push $\lnot$ in
+>
+> replace $z$ by $f(x, y)$
+>
+> Distribute $\land$
+
+$\{D(f(x, y)),\lnot M(x),\lnot M(y), \lnot L(y,x)\}$, 
+
+$\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
+
+> It means [Mice don't like mice who like dogs](https://edstem.org/au/courses/12631/discussion/1682357).
+
+
+### Part C
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
+
+> *Harold likes himself*: $L(b,b)$
+>
+> Negate the formula: $\lnot L(b,b)$
+>
+> Note that $a$, $b$, $c$ are constants, and cannot be mapped.
+
+![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C.svg)
