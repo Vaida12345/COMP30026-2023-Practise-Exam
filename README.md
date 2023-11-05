@@ -266,3 +266,14 @@ isIdempotent n xs = all (\(x, y) -> (elem (y, (apply y xs)) xs)) xs
 apply :: Int -> [(Int,Int)] -> Int
 apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 ```
+
+## Question 9
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1680508)
+
+> please note in the last operation, you can go `left` or `right`.
+>
+> Basically, you would go to the end of the string (first state), then move left 3 times to check if it is an `a`.
+>
+> If the string was not long enough, it would have been rejected when moving the pointer back (left).
+
+![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg)
