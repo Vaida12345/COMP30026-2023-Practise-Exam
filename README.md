@@ -234,3 +234,35 @@ I know this is not pretty, but `*` is not escaped correctly, there is nothing i 
 `(L\M)* = {b}*`
 
 `ab` is in `L*\M*`, but not in `(L\M)*`.
+
+
+## Question 8
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+
+For alternative answer, please refer to [here](https://edstem.org/au/courses/12631/discussion/1680101).
+
+## Part A
+> I used Gauss's formula in this question, could be wrong tho. The tricky `0` cause is dealt by `length xs`, otherwise I needed to use `n+1`.
+```haskell
+import Data.List
+
+isTotalFct :: Int -> [(Int,Int)] -> Bool
+isTotalFct n xs = (sum $ nub $ map (\(x, _) -> x) xs) == (0 + n) * count `div` 2
+    where count = length xs
+```
+
+## Part B
+```haskell
+import Data.List
+
+isIdempotent :: Int -> [(Int,Int)] -> Bool
+isIdempotent n xs = all (\(x, y) -> (elem (y, (apply y xs)) xs)) xs
+
+-- Apply the function to a value.
+--
+-- Parameters:
+--   $0: The input value
+--   $1: The function
+apply :: Int -> [(Int,Int)] -> Int
+apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
+```
