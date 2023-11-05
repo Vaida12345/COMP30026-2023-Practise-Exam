@@ -123,3 +123,26 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 > Note that $a$, $b$, $c$ are constants, and cannot be mapped.
 
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C.svg)
+
+# Question 4
+
+## Part A
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+
+> The string is basically any number of `ab` followed by any number of `ab`.
+
+- `abba`
+- `bababa`
+- `ababba`
+
+## Part B
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+
+![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B.svg)
+
+## Part C
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+
+> Both lhs and rhs need to be able to match the string.
+
+$a*\lor b*$
