@@ -7,7 +7,7 @@ Hey. Just want to organize the answers, for anyone needing this in the future.
 Please do not rely on the format. This is a community version, as there isn't a official one.
 
 ![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)
-Verified means I have found someone with the same answer on [Ed](https://edstem.org/au/courses/12631/discussion/). Please note this **DOES NOT** mean absolutely correct.
+Verified means I have found someone with the same answer on [Ed](https://edstem.org/au/courses/12631/discussion/). Please note this **DOES NOT** mean absolutely correct. You can click on the icon to jump to the source.
 
 ![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
 Unchcked means I failed to find any asnwer on Ed, or it is an open-ended question, and I found my answer correct.
