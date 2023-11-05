@@ -6,13 +6,13 @@ Hey. Just want to organize the answers, for anyone needing this in the future.
 
 Please do not rely on the format. This is a community version, as there isn't a official one.
 
-![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)
+![correct](Assets/correct.svg)
 Correct means it has been verified by a tutor. You can click on the icon to jump to the source.
 
-![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)
+![verified](Assets/verified.svg)
 Verified means I have found someone with the same answer on [Ed](https://edstem.org/au/courses/12631/discussion/). Please note this **DOES NOT** mean absolutely correct. You can click on the icon to jump to the source.
 
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 Unchcked means I failed to find any asnwer on Ed, or it is an open-ended question, and I found my answer correct.
 
 ## Contribution
@@ -24,7 +24,7 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 
 ## Part A
 ### 1
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
 
 > $\psi =\lnot (\lnot P \lor Q) \lor R$
 > 
@@ -35,12 +35,12 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 $\varphi=(Q \to R)$
 
 ### 2
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 $P$
 
 ### 3
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 > $\rho = \lnot P \lor \lnot Q \lor R$
 >
@@ -49,12 +49,12 @@ $P$
 $\varphi=R$
 
 ### 4
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 $P$
 
 ## Part B
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 > 1: $R \leftrightarrow S$
 >
@@ -72,7 +72,7 @@ Hence, by mathematica, and looking really hard, *The conditions that have been p
 
 
 # Question 2
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1679710)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1679710)
 
 ## Part A
 
@@ -97,7 +97,7 @@ Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\textless y)$, $F\l
 Hence, $F\lor Q$ is not valid.
 
 ## Part C
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1687211)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1687211)
 
 $H$ is valid, hence $G \models H$.
 
@@ -105,12 +105,12 @@ $H$ is valid, hence $G \models H$.
 # Question 3
 
 ## Part A
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 $\forall x D(x)\land (\exists y P(y)\land E(x, y)) \to (\lnot \exists z C(z) \land F(x, z))$
 
 ## Part B
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
 
 > $\forall x \forall y \lnot (M(x)\land \forall z(\lnot D(z)\lor L(x, z)))\lor (\lnot M(y)\lor\lnot L(y, x))$
 >
@@ -130,7 +130,7 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 
 
 ### Part C
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
 
 > *Harold likes himself*: $L(b,b)$
 >
@@ -139,14 +139,14 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 > Note that $a$, $b$, $c$ are constants, and cannot be mapped.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C_dark.svg">
-  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q3C_dark.svg">
+  <img src="Media/Q3C.svg">
 </picture>
 
 # Question 4
 
 ## Part A
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
 
 > The string is basically any number of `ab` followed by any number of `ab`.
 
@@ -155,15 +155,15 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 - `ababba`
 
 ## Part B
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1696573)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1696573)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B_dark.svg">
-  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q4B_dark.svg">
+  <img src="Media/Q4B.svg">
 </picture>
 
 ## Part C
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
 
 > Both lhs and rhs need to be able to match the string.
 
@@ -173,7 +173,7 @@ $a*\lor b*$
 # Question 5
 
 ## Part A
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 State | a | b
 --- | --- | --- 
@@ -185,17 +185,17 @@ D*={5} | Z | D
 Z={} | Z | Z
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A_dark.svg">
-  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q5A_dark.svg">
+  <img src="Media/Q5A.svg">
 </picture>
 
 ## Part B
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
 
 `aa*b*`
 
 ## Part C
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 $(a\lor b)*$
 
@@ -205,12 +205,12 @@ $(a\lor b)*$
 Please refer to [Jordi Van Der Meer's answer](https://edstem.org/au/courses/12631/discussion/1682610).
 
 ## Part B
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
 
 A string made up of 28 "a"s.
 
 ## Part C
-[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+[![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
 
 Please refer to Jordi Van Der Meer's answer:
 
@@ -219,7 +219,7 @@ $s\to \epsilon | a^4 | a^7 | a^8 | a^{11} | a^{12} | a^{14} | a^{15} | a^{16} | 
 $T\to \epsilon | Ta$
 
 # Question 7
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1679807)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1679807)
 
 ## part A
 
@@ -249,7 +249,7 @@ I know this is not pretty, but `*` is not escaped correctly, there is nothing i 
 
 
 ## Question 8
-![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+![unchecked](Assets/unchecked.svg)
 
 For alternative answer, please refer to [here](https://edstem.org/au/courses/12631/discussion/1680101).
 
@@ -280,7 +280,7 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 ```
 
 ## Question 9
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1680508)
+[![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1680508)
 
 > please note in the last operation, you can go `left` or `right`.
 >
@@ -289,8 +289,8 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 > If the string was not long enough, it would have been rejected when moving the pointer back (left).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9_dark.svg">
-  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q9_dark.svg">
+  <img src="Media/Q9.svg">
 </picture>
 
 ---
