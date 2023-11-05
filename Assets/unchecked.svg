@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="43px" viewBox="0 0 121 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>verified</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#C4DE87" x="0" y="0" width="121" height="43" rx="21.5"></rect>
+        <text id="unchecked" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="41" y="18">unchecked</tspan>
+        </text>
+        <circle id="Oval" fill="#E7EC32" cx="21.5" cy="21.5" r="15.5"></circle>
+        <text id="!" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="32" font-weight="normal" fill="#C4DE87">
+            <tspan x="16" y="33">!</tspan>
+        </text>
+        <text id="Create-a-PR" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="8" font-weight="normal" fill="#90AF8C">
+            <tspan x="41" y="31">Create a PR</tspan>
+        </text>
+    </g>
+</svg>
