@@ -205,3 +205,32 @@ Please refer to Jordi Van Der Meer's answer:
 $s\to \epsilon | a^4 | a^7 | a^8 | a^{11} | a^{12} | a^{14} | a^{15} | a^{16} | T a^{18}$
 
 $T\to \epsilon | Ta$
+
+# Question 7
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1679807)
+
+## part A
+
+> Basically, just interchange $\forall$ with $exists$.
+>
+> Don't forget to interchange $\land$ with $\to$.
+
+$\forall x (\forall y (y\in \mathcal{F} \to x\in y) \to \exists z (z \in \mathcal{G} \land x\ \in z))$
+
+## Part B
+
+Note that $\epsilon \in$ `(L\M)*`, but $\epsilon \not \in$`L*\M*`
+<!---
+I know this is not pretty, but `*` is not escaped correctly, there is nothing i can do about it.
+-->
+
+## Part C
+`let L = {a, b}`
+
+`Let M = {a}`
+
+`L*\M* = {a, b}* \ {a}*`
+
+`(L\M)* = {b}*`
+
+`ab` is in `L*\M*`, but not in `(L\M)*`.
