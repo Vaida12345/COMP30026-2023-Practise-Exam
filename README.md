@@ -281,4 +281,5 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg)
 
-** Congrates on finishing the sample exam! **
+---
+**Congrates on finishing the sample exam!**
