@@ -24,7 +24,7 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 
 ## Part A
 ### Question 1
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
 
 > $\psi =\lnot (\lnot P \lor Q) \lor R$
 > 
@@ -72,7 +72,7 @@ Hence, by mathematica, and looking really hard, *The conditions that have been p
 
 
 # Question 2
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1679710)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1679710)
 
 ## Part A
 
@@ -143,7 +143,7 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 # Question 4
 
 ## Part A
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
 
 > The string is basically any number of `ab` followed by any number of `ab`.
 
@@ -157,7 +157,7 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B.svg)
 
 ## Part C
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
 
 > Both lhs and rhs need to be able to match the string.
 
@@ -181,7 +181,7 @@ Z={} | Z | Z
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A.svg)
 
 ## Part B
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
 
 `aa*b*`
 
@@ -196,12 +196,12 @@ $(a\lor b)*$
 Please refer to [Jordi Van Der Meer's answer](https://edstem.org/au/courses/12631/discussion/1682610).
 
 ## Part B
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
 
 A string made up of 28 "a"s.
 
 ## Part C
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+[![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
 
 Please refer to Jordi Van Der Meer's answer:
 
@@ -280,3 +280,6 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 > If the string was not long enough, it would have been rejected when moving the pointer back (left).
 
 ![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg)
+
+---
+**Congrates on finishing the sample exam!**
