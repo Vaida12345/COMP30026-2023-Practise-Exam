@@ -157,7 +157,10 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 ## Part B
 [![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1696573)
 
-![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B_dark.svg">
+  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q4B.svg">
+</picture>
 
 ## Part C
 [![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
@@ -181,7 +184,10 @@ C*={3,5} | Z | D
 D*={5} | Z | D
 Z={} | Z | Z
 
-![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A_dark.svg">
+  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A.svg">
+</picture>
 
 ## Part B
 [![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
@@ -282,7 +288,10 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 >
 > If the string was not long enough, it would have been rejected when moving the pointer back (left).
 
-![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9_dark.svg">
+  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q9.svg">
+</picture>
 
 ---
 **Congrates on finishing the sample exam!**
