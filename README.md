@@ -7,7 +7,7 @@ Hey. Just want to organize the answers, for anyone needing this in the future.
 ## Question 1
 
 ### Part A
-![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/Verified.png)
+![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)
 > $\psi =\lnot (\lnot P \lor Q) \lor R$
 > 
 > $\psi = (P \land \lnot Q) \lor R$
