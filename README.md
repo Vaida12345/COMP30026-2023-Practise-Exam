@@ -55,5 +55,21 @@ Out = ! P && ! Q && ! R && ! S
 Hence, by mathematica, and looking really hard, *The conditions that have been posed are unsatisfiable*.
 
 
-## Question 2
+# Question 2
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1679710)
 
+## Part A
+
+> You need to give an interpretations that makes it valid and another that makes it unsatisfiable, [read more](https://edstem.org/au/courses/12631/discussion/1687211).
+
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x=y)$, $F\land Q\equiv\top$.
+
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x<y)$, $F\land Q\equiv\bot$.
+
+Hence, $F\land Q$ is satisfiable but not valid.
+
+## Part B
+
+> To show is not valid, only need to give a counter example.
+
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x<y)$, $F\lor Q\equiv\bot$.
