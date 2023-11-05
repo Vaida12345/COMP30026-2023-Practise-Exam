@@ -23,7 +23,7 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 # Question 1
 
 ## Part A
-### Question 1
+### 1
 [![correct](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
 
 > $\psi =\lnot (\lnot P \lor Q) \lor R$
@@ -34,12 +34,12 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 
 $\varphi=(Q \to R)$
 
-### Question 2
+### 2
 ![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
 
 $P$
 
-### Question 3
+### 3
 ![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
 
 > $\rho = \lnot P \lor \lnot Q \lor R$
@@ -48,7 +48,7 @@ $P$
 
 $\varphi=R$
 
-### Question 4
+### 4
 ![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
 
 $P$
@@ -138,7 +138,10 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 >
 > Note that $a$, $b$, $c$ are constants, and cannot be mapped.
 
-![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C_dark.svg">
+  <img src="https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q3C.svg">
+</picture>
 
 # Question 4
 
