@@ -24,7 +24,7 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 
 ## Part A
 ### Question 1
-[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1670387)
 
 > $\psi =\lnot (\lnot P \lor Q) \lor R$
 > 
