@@ -180,7 +180,7 @@ Z={} | Z | Z
 ## Part B
 [![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
 
-$aa*b*$
+`aa*b*`
 
 ## Part C
 ![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
