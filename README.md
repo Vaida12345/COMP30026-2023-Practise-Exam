@@ -68,7 +68,7 @@ $P$
 In = LogicalExpand[Implies[Q, Xor[R, S]] && Implies[R && S, Q] && Equivalent[R, S] && Implies[! (R || S), ! P]]
 Out = ! P && ! Q && ! R && ! S
 ```
-Hence, by mathematica, and looking really hard, *The conditions that have been posed are unsatisfiable*.
+Hence, by mathematica, and as [Bernhard Andersson pointed out](https://edstem.org/au/courses/12631/discussion/1696632?comment=3782543), *Macguffin cannot show films that week*.
 
 
 # Question 2
