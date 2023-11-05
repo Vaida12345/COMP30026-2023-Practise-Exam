@@ -187,3 +187,21 @@ Z={} | Z | Z
 
 $(a\lor b)*$
 
+# Question 6
+
+## Part A
+Please refer to [Jordi Van Der Meer's answer](https://edstem.org/au/courses/12631/discussion/1682610).
+
+## Part B
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+
+A string made up of 28 "a"s.
+
+## Part C
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1637053)
+
+Please refer to Jordi Van Der Meer's answer:
+
+$s\to \epsilon | a^4 | a^7 | a^8 | a^{11} | a^{12} | a^{14} | a^{15} | a^{16} | T a^{18}$
+
+$T\to \epsilon | Ta$
