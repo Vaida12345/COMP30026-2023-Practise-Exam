@@ -64,7 +64,11 @@ Hence, by mathematica, and looking really hard, *The conditions that have been p
 
 Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x=y)$, $F\land Q\equiv\top$.
 
-Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x<y)$, $F\land Q\equiv\bot$.
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\textless y)$, $F\land Q\equiv\bot$.
+
+<!---
+For some reason, the "<" symbol won't render.
+-->
 
 Hence, $F\land Q$ is satisfiable but not valid.
 
@@ -72,4 +76,11 @@ Hence, $F\land Q$ is satisfiable but not valid.
 
 > To show is not valid, only need to give a counter example.
 
-Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x<y)$, $F\lor Q\equiv\bot$.
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\textless y)$, $F\lor Q\equiv\bot$.
+
+Hence, $F\lor Q$ is not valid.
+
+## Part C
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1687211)
+
+$H$ is valid, hence $G \models H$.
