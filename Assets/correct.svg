@@ -2,16 +2,16 @@
 <svg width="121px" height="43px" viewBox="0 0 121 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>verified</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#91B7F8" x="0" y="-1" width="121" height="43" rx="21.5"></rect>
+        <rect id="Rectangle" fill="#91B7F8" x="0" y="-1.13686838e-13" width="121" height="43" rx="21.5"></rect>
         <text id="Correct" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="12" font-weight="normal" fill="#000000">
-            <tspan x="41" y="17">Correct</tspan>
+            <tspan x="41" y="18">Correct</tspan>
         </text>
         <text id="Click-to-show-post" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="8" font-weight="normal" fill="#A7E0A1">
-            <tspan x="41" y="30">Click to show post</tspan>
+            <tspan x="41" y="31">Click to show post</tspan>
         </text>
-        <circle id="Oval" fill="#2066E2" cx="21.5" cy="20.5" r="15.5"></circle>
+        <circle id="Oval" fill="#2066E2" cx="21.5" cy="21.5" r="15.5"></circle>
         <text id="★" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#91B7F8">
-            <tspan x="12" y="27">★</tspan>
+            <tspan x="12" y="28">★</tspan>
         </text>
     </g>
 </svg>
