@@ -2,7 +2,20 @@
 
 Hey. Just want to organize the answers, for anyone needing this in the future.
 
-*Please do not rely on the format. This is a community version, as there isn't a official one.*
+# Instructions
+
+Please do not rely on the format. This is a community version, as there isn't a official one.
+
+![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)
+Verified means I have found someone with the same answer on [Ed](https://edstem.org/au/courses/12631/discussion/). Please note this **DOES NOT** mean absolutely correct.
+
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+Unchcked means I failed to find any asnwer on Ed, or it is an open-ended question, and I found my answer correct.
+
+## Contribution
+
+If you find anything wrong with it, even any typo, please do fire a PR, or change directly.
+
 
 # Question 1
 
@@ -146,3 +159,31 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 > Both lhs and rhs need to be able to match the string.
 
 $a*\lor b*$
+
+
+# Question 5
+
+## Part A
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+
+State | a | b
+--- | --- | --- 
+S={1} | A | Z
+A*={2,4,5} | B | C
+B*={4,5} | B | D
+C*={3,5} | Z | D
+D*={5} | Z | D
+Z={} | Z | Z
+
+![graph](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Media/Q5A.svg)
+
+## Part B
+[![verified](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1685157)
+
+$aa*b*$
+
+## Part C
+![unchecked](https://github.com/Vaida12345/COMP30026-2023-Practise-Exam/blob/main/Assets/unchecked.svg)
+
+$(a\lor b)*$
+
