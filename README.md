@@ -107,7 +107,9 @@ $H$ is valid, hence $G \models H$.
 ## Part A
 ![unchecked](Assets/unchecked.svg)
 
-$\forall x D(x)\land (\exists y P(y)\land E(x, y)) \to (\lnot \exists z C(z) \land F(x, z))$
+> As Aimee Liang [pointed out](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787623), it is more rigoros to use $F(z, x)$, which stands for $z$ is a friend of $x$, instad of $F(x, z)$.
+
+$\forall x D(x)\land (\exists y P(y)\land E(x, y)) \to (\lnot \exists z C(z) \land F(z, x))$
 
 ## Part B
 [![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
@@ -185,8 +187,8 @@ D*={5} | Z | D
 Z={} | Z | Z
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Media/Q5A_dark.svg">
-  <img src="Media/Q5A.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q5Av2_dark.svg">
+  <img src="Media/Q5Av2.svg">
 </picture>
 
 ## Part B
@@ -297,3 +299,9 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 
 ---
 **Congrates on finishing the sample exam!**
+
+# Change Log
+- Nov 6,  9am, fixed Q1B, by [Bernhard Andersson](https://edstem.org/au/courses/12631/discussion/1696632?comment=3782543)
+- Nov 6, 12am, fixed Q9,  by [Bernhard Andersson](https://edstem.org/au/courses/12631/discussion/1696632?comment=3783820)
+- Nov 6,  9pm, fixed Q5A missing `b` loop in the graph, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787836)
+- Nov 6,  9pm, fixed Q3A, use $F(z, x)$ instead of $F(x, z)$, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787623)
