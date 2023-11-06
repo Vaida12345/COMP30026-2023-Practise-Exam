@@ -287,10 +287,12 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 > Basically, you would go to the end of the string (first state), then move left 3 times to check if it is an `a`.
 >
 > If the string was not long enough, it would have been rejected when moving the pointer back (left).
+>
+> As [Bernhard Andersson said](https://edstem.org/au/courses/12631/discussion/1696632?comment=3783820), you need to consume the character (to `x`), in order to prevent the pointer from staying at the left most position instead of rejecting when the string is not long enough. (Yes, the Turing Machine [stays there](https://edstem.org/au/courses/12631/discussion/1695680) when you try to go left at the left most position.)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Media/Q9_dark.svg">
-  <img src="Media/Q9.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Media/Q9v2_dark.svg">
+  <img src="Media/Q9v2.svg">
 </picture>
 
 ---
