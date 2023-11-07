@@ -30,28 +30,15 @@ If you find anything wrong with it, even any typo, please do fire a PR, or chang
 > 
 > $\psi = (P \land \lnot Q) \lor R$
 > 
-> Apparently, $\psi \models (\lnot Q\lor R)$
-
-$\varphi=(Q \to R)$
-
-### 2
-![unchecked](Assets/unchecked.svg)
-
-$P$
-
-### 3
-![unchecked](Assets/unchecked.svg)
-
+> $\psi \models (\lnot Q\lor R)$
+>
 > $\rho = \lnot P \lor \lnot Q \lor R$
 >
-> Apparently, $R \models (\lnot P \lor \lnot Q \lor R)$
+> $(\lnot Q \lor R) \models (\lnot P \lor \lnot Q \lor R)$
+>
+> I misunderstood the question at first, [it is asking for a single $\varphi$ that would satisfy all these conditions](https://edstem.org/au/courses/12631/discussion/1697140?comment=3786256).
 
-$\varphi=R$
-
-### 4
-![unchecked](Assets/unchecked.svg)
-
-$P$
+$\varphi=(Q \to R)$
 
 ## Part B
 ![unchecked](Assets/unchecked.svg)
@@ -305,4 +292,5 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 - Nov 6, 12am, fixed Q9,  by [Bernhard Andersson](https://edstem.org/au/courses/12631/discussion/1696632?comment=3783820)
 - Nov 6,  9pm, fixed Q5A missing `b` loop in the graph, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787836)
 - Nov 6,  9pm, fixed Q3A, use $F(z, x)$ instead of $F(x, z)$, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787623)
-- Nov 7, 11pm, fixed Q4 typo, [the string is basically any number of ab followed by any number of **ba**.](../../issues/2) 
+- Nov 7, 11pm, fixed Q4 typo, [the string is basically any number of ab followed by any number of **ba**.](../../issues/2)
+- Nov 7, 11pm, fixed Q1A, [the question is asking for a single $\varphi$](../../issues/1)
