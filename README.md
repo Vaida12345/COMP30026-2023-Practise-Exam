@@ -150,7 +150,7 @@ $\{\lnot L(x, f(x, y)), \lnot M(x), \lnot M(y), \lnot L(y,x)\}$
 ## Part A
 [![correct](Assets/correct.svg)](https://edstem.org/au/courses/12631/discussion/1633024)
 
-> The string is basically any number of `ab` followed by any number of `ab`.
+> The string is basically any number of `ab` followed by any number of `ba`.
 
 - `abba`
 - `bababa`
@@ -305,3 +305,4 @@ apply n ((x,y):xs) = if (n == x) then y else (apply n xs)
 - Nov 6, 12am, fixed Q9,  by [Bernhard Andersson](https://edstem.org/au/courses/12631/discussion/1696632?comment=3783820)
 - Nov 6,  9pm, fixed Q5A missing `b` loop in the graph, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787836)
 - Nov 6,  9pm, fixed Q3A, use $F(z, x)$ instead of $F(x, z)$, by [Aimee Liang](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787623)
+- Nov 7, 11pm, fixed Q4 typo, [the string is basically any number of ab followed by any number of **ba**.](../../issues/2) 
