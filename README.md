@@ -212,9 +212,9 @@ $T\to \epsilon | Ta$
 
 ## part A
 
-> Basically, just interchange $\forall$ with $exists$.
+> Basically, just interchange $\forall$ with $\exists$.
 >
-> Don't forget to interchange $\land$ with $\to$.
+> Don't forget to interchange $\land$ with $\to$, as $\exists_x F\equiv \lnot \forall_x \lnot F$
 
 $\forall x (\forall y (y\in \mathcal{F} \to x\in y) \to \exists z (z \in \mathcal{G} \land x\ \in z))$
 
