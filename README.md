@@ -65,23 +65,23 @@ Hence, by mathematica, and as [Bernhard Andersson pointed out](https://edstem.or
 
 > You need to give an interpretations that makes it valid and another that makes it unsatisfiable, [read more](https://edstem.org/au/courses/12631/discussion/1687211).
 
-Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x=y)$, $F\land Q\equiv\top$.
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x=y)$, $F\land G\equiv\top$.
 
-Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\textless y)$, $F\land Q\equiv\bot$.
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\lt y)$, $F\land G\equiv\bot$.
 
 <!---
 For some reason, the "<" symbol won't render.
 -->
 
-Hence, $F\land Q$ is satisfiable but not valid.
+Hence, $F\land G$ is satisfiable but not valid.
 
 ## Part B
 
 > To show is not valid, only need to give a counter example.
 
-Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\textless y)$, $F\lor Q\equiv\bot$.
+Consider $\mathcal{I}(D)=\mathbb{R}$, $\mathcal{I}(P)(x,y)=(x\lt y)$, $F\lor G\equiv\bot$.
 
-Hence, $F\lor Q$ is not valid.
+Hence, $F\lor G$ is not valid.
 
 ## Part C
 [![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1687211)
