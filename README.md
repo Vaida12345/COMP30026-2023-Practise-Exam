@@ -96,7 +96,7 @@ $H$ is valid, hence $G \models H$.
 
 > As Aimee Liang [pointed out](https://edstem.org/au/courses/12631/discussion/1696632?comment=3787623), it is more rigoros to use $F(z, x)$, which stands for $z$ is a friend of $x$, instad of $F(x, z)$.
 
-$\forall x (D(x)\land (\exists y P(y)\land E(x, y)) \to (\lnot \exists z C(z) \land F(z, x)))$
+$\forall x (D(x)\land (\exists y (P(y)\land E(x, y))) \to (\lnot \exists z (C(z) \land F(z, x))))$
 
 ## Part B
 [![verified](Assets/verified.svg)](https://edstem.org/au/courses/12631/discussion/1682125)
